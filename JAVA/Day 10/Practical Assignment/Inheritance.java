@@ -1,4 +1,4 @@
-package inheritancepeopleandemployee;
+
 
 class Person {
 	    String name;
